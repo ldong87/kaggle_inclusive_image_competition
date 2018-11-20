@@ -21,7 +21,7 @@ Success trials:
 
 - When optimization stagnates, changing optimizer can be effective.
 
-- Changing the pooling layer to adaptive pooling according to fastai to enable multiscale training is very effective. This is also mentioned by another (post)[]. 
+- Changing the pooling layer to adaptive pooling according to fastai to enable multiscale training is very effective. This is also mentioned by another [post](https://www.kaggle.com/c/inclusive-images-challenge/discussion/71063#418735). 
 
 - Dataparallelism is effective and simple in pytorch.
 
